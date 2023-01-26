@@ -1,0 +1,6 @@
+print(" -"*14)
+print("|                            |")
+print("|     人生苦短，我学Python   |")
+print("|     人生苦短，我学Python   |")
+print("|                            |")
+print(" -"*14)
