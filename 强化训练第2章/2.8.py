@@ -1,0 +1,6 @@
+print('\033[1;32m'  )
+print("■■■\t■■■\t■\t■■■")
+print("\t■\t\t■\t■\t\t■  ")
+print("■■■\t■■■\t■\t\t■  ")
+print("\t■\t■\t\t■\t\t■  ")
+print("■■■\t■■■\t■\t\t■  ")

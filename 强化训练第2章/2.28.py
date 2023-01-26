@@ -1,0 +1,5 @@
+print("\033[1;32;41m         京东秒杀")
+print("      FLASH DEALS")
+print("           &")
+print(" 本场距离活动还剩")
+print("\033[1;30;41m     08  09  12")
