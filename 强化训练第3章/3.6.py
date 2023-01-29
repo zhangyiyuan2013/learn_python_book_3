@@ -1,0 +1,7 @@
+print("特殊字符\tASCII值")
+print(" @\t\t",ord("@"))
+print(" %\t\t",ord("%"))
+print(" &\t\t",ord("&"))
+print(" *\t\t",ord("*"))
+print(" ?\t\t",ord("?"))
+print(" ]\t\t",ord("]"))
